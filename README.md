@@ -34,3 +34,4 @@ print("Title:", title)
 print("Price:", price)
 print("Availability:", availability)
 ```
+I added print statements to this Python code to prove that all parts are working.
